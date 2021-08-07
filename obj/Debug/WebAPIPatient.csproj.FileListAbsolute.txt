@@ -1,0 +1,380 @@
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\WebAPIPatient.dll.config
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\WebAPIPatient.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\WebAPIPatient.pdb
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\csc.exe
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\csc.exe.config
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\csc.rsp
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\csi.exe
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\csi.exe.config
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\csi.rsp
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.AppContext.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Console.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Net.Http.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\vbc.exe
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\vbc.exe.config
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\vbc.rsp
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Antlr3.Runtime.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\EntityFramework.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\EntityFramework.SqlServer.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Newtonsoft.Json.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Net.Http.Formatting.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Helpers.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Http.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Http.WebHost.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Mvc.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Optimization.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Razor.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.WebPages.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\WebGrease.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\EntityFramework.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\EntityFramework.SqlServer.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Newtonsoft.Json.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Net.Http.Formatting.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Helpers.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Http.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Http.WebHost.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Mvc.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Optimization.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.Razor.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.WebPages.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Antlr3.Runtime.pdb
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\obj\Debug\WebAPIPatient.csprojAssemblyReference.cache
+C:\Users\Jacquet\source\repos\WebAPIPatient\obj\Debug\WebAPIPatient.csproj.CoreCompileInputs.cache
+C:\Users\Jacquet\source\repos\WebAPIPatient\obj\Debug\WebAPIPatient.csproj.CopyComplete
+C:\Users\Jacquet\source\repos\WebAPIPatient\obj\Debug\WebAPIPatient.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\obj\Debug\WebAPIPatient.pdb
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Options.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.OpenApi.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Buffers.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.ComponentModel.Annotations.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Memory.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Numerics.Vectors.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Text.Encodings.Web.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Text.Json.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.ValueTuple.dll
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Options.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.OpenApi.pdb
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Microsoft.OpenApi.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.Swagger.pdb
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Buffers.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Memory.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Numerics.Vectors.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Text.Encodings.Web.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Text.Json.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Jacquet\source\repos\WebAPIPatient\bin\System.ValueTuple.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\WebAPIPatient.dll.config
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\WebAPIPatient.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\WebAPIPatient.pdb
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\csc.exe
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\csc.exe.config
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\csc.rsp
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\csi.exe
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\csi.exe.config
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\csi.rsp
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.AppContext.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Console.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Net.Http.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\vbc.exe
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\vbc.exe.config
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\vbc.rsp
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Antlr3.Runtime.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\EntityFramework.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\EntityFramework.SqlServer.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Options.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.OpenApi.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Newtonsoft.Json.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Buffers.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.ComponentModel.Annotations.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Memory.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Net.Http.Formatting.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Numerics.Vectors.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Text.Encodings.Web.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Text.Json.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.ValueTuple.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Helpers.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Http.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Http.WebHost.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Mvc.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Optimization.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Razor.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.WebPages.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\WebGrease.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\EntityFramework.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\EntityFramework.SqlServer.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Options.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.OpenApi.pdb
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.OpenApi.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.Swagger.pdb
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Buffers.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Memory.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Numerics.Vectors.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Text.Encodings.Web.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Text.Json.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.ValueTuple.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Newtonsoft.Json.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Net.Http.Formatting.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Helpers.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Http.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Http.WebHost.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Mvc.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Optimization.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.Razor.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.WebPages.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Antlr3.Runtime.pdb
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\obj\Debug\WebAPIPatient.csprojAssemblyReference.cache
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\obj\Debug\WebAPIPatient.csproj.CoreCompileInputs.cache
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\obj\Debug\WebAPIPatient.csproj.CopyComplete
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\obj\Debug\WebAPIPatient.dll
+C:\Users\Jacquet\Documents\Visual Studio 2019\Projects\WebAPIPatient\obj\Debug\WebAPIPatient.pdb

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PATIENTDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'PATIENTDB.dbo.tbadresse' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tbadresse">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" Nullable="false" />
+    <Property Name="personneid" Type="bigint" />
+    <Property Name="description" Type="nvarchar(max)" />
+    <Property Name="isactif" Type="bit" />
+    <Property Name="createdby" Type="nvarchar" MaxLength="50" />
+    <Property Name="datecreated" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'PATIENTDB.dbo.tbobservation' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tbobservation">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="patientid" Type="bigint" />
+    <Property Name="datecreated" Type="datetime" />
+    <Property Name="createdby" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbobservationpatient">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="observationid" Type="bigint" />
+    <Property Name="createdby" Type="nvarchar" MaxLength="50" />
+    <Property Name="datecreated" Type="datetime" />
+    <Property Name="refobservationid" Type="bigint" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'PATIENTDB.dbo.tbpatient' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tbpatient">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" Nullable="false" />
+    <Property Name="personneid" Type="bigint" />
+    <Property Name="datecreated" Type="datetime" />
+    <Property Name="createdby" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'PATIENTDB.dbo.tbpersonne' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tbpersonne">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nom" Type="nvarchar" MaxLength="50" />
+    <Property Name="prenom" Type="nvarchar" MaxLength="50" />
+    <Property Name="sexe" Type="nvarchar" MaxLength="50" />
+    <Property Name="datecreated" Type="datetime" />
+    <Property Name="createdby" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'PATIENTDB.dbo.tbrefobservation' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tbrefobservation">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" Nullable="false" />
+    <Property Name="description" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="PATIENTDBModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbobservationpatient" EntityType="Self.tbobservationpatient" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbadresse" EntityType="Self.tbadresse" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tbadresse].[id] AS [id], 
+    [tbadresse].[personneid] AS [personneid], 
+    [tbadresse].[description] AS [description], 
+    [tbadresse].[isactif] AS [isactif], 
+    [tbadresse].[createdby] AS [createdby], 
+    [tbadresse].[datecreated] AS [datecreated]
+    FROM [dbo].[tbadresse] AS [tbadresse]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="tbobservation" EntityType="Self.tbobservation" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tbobservation].[id] AS [id], 
+    [tbobservation].[patientid] AS [patientid], 
+    [tbobservation].[datecreated] AS [datecreated], 
+    [tbobservation].[createdby] AS [createdby]
+    FROM [dbo].[tbobservation] AS [tbobservation]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="tbpatient" EntityType="Self.tbpatient" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tbpatient].[id] AS [id], 
+    [tbpatient].[personneid] AS [personneid], 
+    [tbpatient].[datecreated] AS [datecreated], 
+    [tbpatient].[createdby] AS [createdby]
+    FROM [dbo].[tbpatient] AS [tbpatient]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="tbpersonne" EntityType="Self.tbpersonne" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tbpersonne].[id] AS [id], 
+    [tbpersonne].[nom] AS [nom], 
+    [tbpersonne].[prenom] AS [prenom], 
+    [tbpersonne].[sexe] AS [sexe], 
+    [tbpersonne].[datecreated] AS [datecreated], 
+    [tbpersonne].[createdby] AS [createdby]
+    FROM [dbo].[tbpersonne] AS [tbpersonne]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="tbrefobservation" EntityType="Self.tbrefobservation" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tbrefobservation].[id] AS [id], 
+    [tbrefobservation].[description] AS [description]
+    FROM [dbo].[tbrefobservation] AS [tbrefobservation]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
